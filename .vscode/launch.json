@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-UniBusApplication<uni-bus>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.example.uni_bus.UniBusApplication",
+      "projectName": "uni-bus",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
